@@ -1,0 +1,9 @@
+{
+	"id": "git-repository-committer",
+	"name": "Git Repository Committer",
+	"version": "0.1.0",
+	"description": "Allows users to make commits to a remote github repository.",
+	"author": "Ivan Smiljanic",
+	"authorUrl": "https://github.com/IvanSmiljanic",
+	"isDesktopOnly": true
+}
